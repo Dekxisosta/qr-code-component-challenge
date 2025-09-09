@@ -1,14 +1,10 @@
 # Frontend Mentor - QR Code Component Challenge
 
-## Overview
-Users should be able to:
-- See hover and focus states for all interactive elements on the page
-
 ### Screenshot
 ![](./final-output.png)
 
 ### Links
-- [Frontend Mentor Solution]()
+- [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/static-qr-code-component-using-vanilla-html-and-css-40d6Q6tRBz)
 - [Live Site](https://dekxisosta.github.io/qr-code-component-challenge/)
 
 ### Built with
