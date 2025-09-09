@@ -1,0 +1,31 @@
+.qr-code{
+    display: flex;
+    flex-direction: column;
+    max-height: fit-content;
+    max-width: 300px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 16px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.qr-code__img-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.qr-code__img-wrapper img{
+    object-fit: contain;
+    width: 100%;
+    border-radius: 10px;
+}
+.qr-code__details{
+    margin: 24px;
+}
+.qr-code__title{
+    color: var(--color-qr-title);
+}
+.qr-code__body{
+    color: var(--color-qr-body);
+    margin-top: 24px;
+}

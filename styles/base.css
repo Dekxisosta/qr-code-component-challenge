@@ -1,0 +1,12 @@
+:root{
+    --color-qr-title: hsl(218, 44%, 22%);
+    --color-qr-body: hsl(216, 15%, 48%);
+    --color-bg: hsl(212, 45%, 89%);
+    --color-qr-bg: hsl(0, 0%, 100%);
+}
+
+body{
+    font-family: Outfit;
+    background-color: var(--color-bg);
+    overflow: hidden;
+}
