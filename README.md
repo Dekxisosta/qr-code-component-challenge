@@ -1,13 +1,23 @@
-# Frontend Mentor - QR Code Component Challenge
+<table>
+  <tr>
+    <td rowspan="2"><img src="azur-lane-akashi.gif" width="180"></img></td>
+    <td colspan="5"><h1> Frontend Mentor Challenge - QR Code Component </h1></td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      <b>[INFO]</b>
+      &nbspFeel free to copy the code — I don’t really care. If you want to make tweaks or notice anything that needs fixing, go ahead and let me know.
+    </td>
+  </tr>
+</table>
 
-### Screenshot
+## Screenshot
 ![](./final-output.png)
 
-### Links
-- [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/static-qr-code-component-using-vanilla-html-and-css-40d6Q6tRBz)
-- [Live Site](https://dekxisosta.github.io/qr-code-component-challenge/)
+## Overview
+The solution must reflect the design files
 
-### Built with
+## Built with
 HTML5, CSS3, Flexbox
 
 ## Author
